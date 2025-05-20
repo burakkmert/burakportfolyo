@@ -215,11 +215,13 @@ function App() {
             </div>
             
             <div className="portfolio-item">
-              <img src="/image/web_sitesi.jpg" alt="Web Sitesi Projesi" className="portfolio-img" />
-              <div className="portfolio-info">
-                <h3 className="portfolio-title">Web Sitesi Projesi</h3>
-                <p className="portfolio-category">HTML, CSS, JavaScript, React</p>
-              </div>
+              <a href="https://github.com/burakkmert/burakportfolyo/tree/master" target="_blank" rel="noopener noreferrer">
+                <img src="/image/web_sitesi.jpg" alt="Web Sitesi Projesi" className="portfolio-img" />
+                <div className="portfolio-info">
+                  <h3 className="portfolio-title">Web Sitesi Projesi</h3>
+                  <p className="portfolio-category">HTML, CSS, JavaScript, React</p>
+                </div>
+              </a>
             </div>
             
             <div className="portfolio-item">
