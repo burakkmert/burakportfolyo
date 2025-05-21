@@ -38,7 +38,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "ignoreCommand": "echo 'Ignore node_modules'",
-  "buildCommand": "npm install && npm run build"
+  ]
 } 
