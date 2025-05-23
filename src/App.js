@@ -154,7 +154,7 @@ function App() {
                 <i className="fas fa-desktop"></i>
               </div>
               <h3 className="service-title">PyQt5 ve Qt Designer</h3>
-              <p>PyQt5 ve Qt Designer kullanarak masaüstü arayüze sahip uygulamalar geliştiriyorum. Qt Designer ile tasarladığım kullanıcı arayüzlerini PyQt5 ile birleştirerek işlevsel projeler ortaya koyuyorum. PyQt5 ve Qt Designer kullanarak soru bankası uygulaması, araç servis takip sistemi ve kelime istemci gibi projeler geliştirdim.</p>
+              <p>PyQt5 ve Qt Designer kullanarak masaüstü arayüze sahip uygulamalar geliştiriyorum. Qt Designer ile tasarladığım kullanıcı arayüzlerini PyQt5 ile birleştirerek işlevsel projeler ortaya koyuyorum. PyQt5 ve Qt Designer kullanarak soru bankası uygulaması, araç servis takip sistemi ve kelime işlemcii gibi projeler geliştirdim.</p>
             </div>
             
             <div className="service-item">
@@ -170,7 +170,7 @@ function App() {
                 <i className="fas fa-code"></i>
               </div>
               <h3 className="service-title">Web Geliştirme</h3>
-              <p>HTML ve CSS kullanarak temel seviyede web sayfaları tasarlayabiliyorum.Tasarımdan kodlamaya kadar web projelerini baştan sona oluşturma deneyimi edindim. Kendi portföy sayfamı oluşturarak hem öğrendiklerimi uyguluyor hem de çalışmalarımı sergiliyorum.</p>
+              <p>HTML ve CSS kullanarak temel seviyede web sayfaları tasarlayabiliyorum. Tasarımdan kodlamaya kadar web projelerini baştan sona oluşturma deneyimi edindim. Kendi portföy sayfamı oluşturarak hem öğrendiklerimi uyguluyor hem de çalışmalarımı sergiliyorum.</p>
             </div>
           </div>
         </div>
@@ -262,7 +262,7 @@ function App() {
                 </div>
                 <div className="contact-details">
                   <h4>Telefon</h4>
-                  <p>+90 0537 945 71 92</p>
+                  <p>+90 537 945 71 92</p>
                 </div>
               </div>
               
